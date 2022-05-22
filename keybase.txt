@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/krishjain
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://krish-sysadmin.github.io
+  * I am krishjain (https://keybase.io/krishjain) on keybase.
+  * I have a public key ASBN0P0voVCsA8eO2HhistENQMcZ0hLBg1YPcTQx2GaRTQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012042e293c8b7bc8482e7e2909c3a19adcbbafa6ab51af3604204d5c57250129e180a",
+      "host": "keybase.io",
+      "kid": "01204dd0fd2fa150ac03c78ed87862b2d10d40c719d212c183560f713431d866914d0a",
+      "uid": "a437e31cec1c17b0246e17c0a0a19619",
+      "username": "krishjain"
+    },
+    "merkle_root": {
+      "ctime": 1653233324,
+      "hash": "ad6932e0642708e64e4921762013c8f84ba5e8936235678733da0c14b083a39834fccf919ed279fe90dcee18cce12149e3dcc8c3d9fb67ad4a9712ba136bff86",
+      "hash_meta": "e10150e281d8fb538a0c2e7c5c77227aaf66d43b0ad6dbe4c150e5bcfe6486f1",
+      "seqno": 22532573
+    },
+    "service": {
+      "entropy": "2dtuX4cGyA1UTdb4HkqqKWuM",
+      "hostname": "krish-sysadmin.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.2"
+  },
+  "ctime": 1653233502,
+  "expire_in": 504576000,
+  "prev": "d89a653d8dd665ee34f5fc68f0a465ec160c55b53f57bd7e106b12b6716cb709",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTdD9L6FQrAPHjth4YrLRDUDHGdISwYNWD3E0MdhmkU0Kp3BheWxvYWTESpcCIcQg2JplPY3WZe409fxo8KRl7BYMVbU/V71+EGsStnFstwnEIEZjJ50OnqbjLkAWjdmidEbwTe8MpXlQeC7cdisoZluJAgHCo3NpZ8RACqOltEVYArrxi3U0W5X3LAJ4MTKieQbW4xY92Yp4zUsuTJ8HQSbpl6RpT0iq4j1j0a5yfd5FbS7RiYaMmKI7CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPXwx2CTmuVnMqUskYxLEqsu+qGpx41o1u9I7M1dGFBto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/krishjain
+
+==================================================================
